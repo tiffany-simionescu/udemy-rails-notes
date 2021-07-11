@@ -41,3 +41,5 @@
 # than destroy article (article.destroy)
 
 # we need to create validations in the model file for articles
+
+# Article.errors.full_messages
